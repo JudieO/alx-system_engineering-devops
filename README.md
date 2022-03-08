@@ -1,1 +1,1 @@
-SE devops
+Basics of the shell
